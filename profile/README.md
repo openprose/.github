@@ -1,3 +1,5 @@
+![OpenProse.](https://raw.githubusercontent.com/openprose/.github/main/profile/header.png)
+
 ## Standing AI jobs, declared in Markdown.
 
 Agent sessions end. The work they were responsible for shouldn't. **OpenProse** is a declarative language for standing AI work: you write Markdown contracts (`*.prose.md`) that declare what should stay true, and the system works out how much model work it takes to keep it that way.
